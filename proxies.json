@@ -1,0 +1,194 @@
+[
+    {
+        "ip": "43.130.156.214",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "186.121.235.66",
+        "porta": "8080",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "129.159.112.251",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "129.153.157.63",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "144.86.187.46",
+        "porta": "8888",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "43.130.123.248",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "43.130.156.199",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "50.225.202.9",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "178.33.3.163",
+        "porta": "8080",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "144.86.187.55",
+        "porta": "8888",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "217.61.247.50",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "35.213.91.45",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "157.245.27.9",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "212.129.15.88",
+        "porta": "8080",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "144.86.187.34",
+        "porta": "8888",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "192.99.182.243",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "35.240.219.50",
+        "porta": "8080",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "144.86.187.47",
+        "porta": "8888",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "144.86.187.41",
+        "porta": "8888",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "5.189.184.6",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "140.238.245.116",
+        "porta": "8100",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "95.0.84.26",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "113.53.231.133",
+        "porta": "3129",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "47.74.226.8",
+        "porta": "5001",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "144.86.187.53",
+        "porta": "8888",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "202.180.20.10",
+        "porta": "55443",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "20.44.206.138",
+        "porta": "80",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    },
+    {
+        "ip": "190.92.208.146",
+        "porta": "7890",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "115.144.119.229",
+        "porta": "10204",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "41.65.236.43",
+        "porta": "1981",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "51.79.50.31",
+        "porta": "9300",
+        "protocolo": "yes",
+        "pais": "elite proxy"
+    },
+    {
+        "ip": "112.217.162.5",
+        "porta": "3128",
+        "protocolo": "yes",
+        "pais": "anonymous"
+    }
+]
